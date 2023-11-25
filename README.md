@@ -39,6 +39,8 @@ ejercicio ordenadas por lenguaje de programación.
   [SOLUCIONES](./2023/challenge_01)
 - **2023** - [`CHALLENGE_02`](./2023/CHALLENGE_02/README.md) :
   [SOLUCIONES](./2023/challenge_02)
+- **2023** - [`CHALLENGE_03`](./2023/CHALLENGE_03/README.md) :
+  [SOLUCIONES](./2023/challenge_02)
 
 ## 🤝 Contribuir
 
